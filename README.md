@@ -1,6 +1,15 @@
+## 👥 Participe da construção do futuro da medicina com IA!
+
+Você é desenvolvedor(a), entusiasta de inteligência artificial ou especialista em saúde digital? Junte-se ao KUINDI!
+
+🌐 [Acesse o projeto no GitHub](https://github.com/jimakami/kuindi)
+
+📬 Entre em contato: j.imakami@proton.me
+
 # kuindi
+
 Inteligencia Artificial Medica do Instituto Imakami
-# 🧠 KUINDI – Inteligência Artificial Médica by Instituto Imakami
+#  KUINDI – Inteligência Artificial Médica by Instituto Imakami
 
 **KUINDI** é uma plataforma de **Inteligência Artificial Médica** desenvolvida pelo **Instituto Imakami**, com o objetivo de transformar o cuidado em saúde integrativa por meio da personalização e da análise em tempo real de dados biomédicos.
 
